@@ -1,0 +1,46 @@
+
+nav {
+	background-color: grey;
+	height: 70px;
+	padding: 10px;
+}
+
+ul {
+	text-align: center;
+}
+
+li {
+	display: inline-block;
+	font-size: 16px;
+	text-align: center;
+}
+
+a:hover {
+	color: hotpink;
+}
+
+a {
+	text-decoration: none;
+  color: #BFBFBF;
+	padding: 15px;
+	font-size: 20px;
+	font-family: "Helvetica Neue", Helvetica, sans-serif;
+}
+
+.button {
+	text-align: center;
+}
+
+button {
+	border: none;
+	padding: 10px 15px;
+	margin-top: 10px;
+	margin-left: 50px;
+	display: center;
+}
+
+button:hover {
+	color: hotpink;
+	background-color: grey;
+	font-family: helvetica, sans-serif;
+}
